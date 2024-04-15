@@ -1,12 +1,8 @@
- ### Olá 👋! Eu sou a Régia Alves
+ ### Olá 👋! Eu sou a Régia 
 ##
 
 - 💻 Estudo análise e desenvolvimento de sistemas
-- 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 ![Regiaalves's GitHub stats](https://github-readme-stats.vercel.app/api?username=regiaalves&show_icons=true&theme=blue-green)
